@@ -1,0 +1,9 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.DAL.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.DAL.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.DBUtility.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.Model.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.DBUtility.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\bin\Debug\PBMSBatch.Model.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\obj\Debug\PBMSBatch.DAL.csprojResolveAssemblyReference.cache
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\obj\Debug\PBMSBatch.DAL.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DAL\obj\Debug\PBMSBatch.DAL.pdb

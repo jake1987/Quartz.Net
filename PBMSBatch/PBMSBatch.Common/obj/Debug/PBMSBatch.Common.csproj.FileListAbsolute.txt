@@ -1,0 +1,4 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\bin\Debug\PBMSBatch.Common.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\bin\Debug\PBMSBatch.Common.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\obj\Debug\PBMSBatch.Common.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\obj\Debug\PBMSBatch.Common.pdb

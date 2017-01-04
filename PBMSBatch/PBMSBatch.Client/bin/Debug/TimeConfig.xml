@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <!--CKD销售出货资料最后更新日期-->
+  <Job name="CKDSales">2016-12-30 07:00:00</Job>
+  <!--配件包销售出货资料最后更新日期-->
+  <Job name="Sales">2016-01-01 00:00:00</Job>
+</Jobs>

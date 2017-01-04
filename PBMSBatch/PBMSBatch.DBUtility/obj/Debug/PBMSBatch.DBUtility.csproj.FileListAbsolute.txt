@@ -1,0 +1,13 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\PBMSBatch.DBUtility.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\PBMSBatch.DBUtility.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\obj\Debug\PBMSBatch.DBUtility.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\obj\Debug\PBMSBatch.DBUtility.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.Core.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Quartz.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.xml
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.Core.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Common.Logging.Core.xml
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Quartz.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Debug\Quartz.xml

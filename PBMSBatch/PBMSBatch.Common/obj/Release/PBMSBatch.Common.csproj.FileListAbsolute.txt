@@ -1,0 +1,5 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\bin\Release\PBMSBatch.Common.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\bin\Release\PBMSBatch.Common.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\obj\Release\PBMSBatch.Common.csprojResolveAssemblyReference.cache
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\obj\Release\PBMSBatch.Common.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Common\obj\Release\PBMSBatch.Common.pdb

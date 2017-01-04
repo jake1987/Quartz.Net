@@ -1,0 +1,4 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Release\PBMSBatch.DBUtility.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\bin\Release\PBMSBatch.DBUtility.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\obj\Release\PBMSBatch.DBUtility.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\obj\Release\PBMSBatch.DBUtility.pdb

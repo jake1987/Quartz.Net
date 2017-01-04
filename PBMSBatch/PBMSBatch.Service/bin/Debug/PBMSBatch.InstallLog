@@ -1,0 +1,64 @@
+﻿正在安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在安裝服務 BatchService...
+已經成功安裝服務 BatchService。
+正在記錄檔 Application 中建立 EventLog 來源 BatchService...
+正在認可組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在解除安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在移除 EventLog 來源 BatchService。
+已從系統中移除服務 BatchService...
+已經成功從系統移除服務 BatchService。
+正在安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在安裝服務 BatchService...
+已經成功安裝服務 BatchService。
+正在記錄檔 Application 中建立 EventLog 來源 BatchService...
+正在認可組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在解除安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在移除 EventLog 來源 BatchService。
+已從系統中移除服務 BatchService...
+已經成功從系統移除服務 BatchService。
+正在安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在安裝服務 BatchService...
+已經成功安裝服務 BatchService。
+正在記錄檔 Application 中建立 EventLog 來源 BatchService...
+正在認可組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在解除安裝組件 'E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.InstallLog
+   assemblypath = E:\Program\Server\PBMSBatch\PBMSBatch.Service\bin\Debug\PBMSBatch.exe
+正在移除 EventLog 來源 BatchService。
+已從系統中移除服務 BatchService...
+已經成功從系統移除服務 BatchService。
+嘗試停止服務 BatchService。

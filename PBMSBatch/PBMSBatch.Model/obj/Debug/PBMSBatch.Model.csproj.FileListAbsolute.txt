@@ -1,0 +1,4 @@
+E:\Program\Server\PBMSBatch\PBMSBatch.Model\bin\Debug\PBMSBatch.Model.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Model\bin\Debug\PBMSBatch.Model.pdb
+E:\Program\Server\PBMSBatch\PBMSBatch.Model\obj\Debug\PBMSBatch.Model.dll
+E:\Program\Server\PBMSBatch\PBMSBatch.Model\obj\Debug\PBMSBatch.Model.pdb

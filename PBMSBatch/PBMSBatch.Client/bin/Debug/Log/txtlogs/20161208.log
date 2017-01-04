@@ -1,0 +1,240 @@
+Log Entry : 2016年12月08日 08:32:39
+时间:2016/12/8 上午 08:32:38, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 08:32:45
+时间:2016/12/8 上午 08:32:45, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 08:33:03
+2016/12/8 上午 08:33:03,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:33:07
+2016/12/8 上午 08:33:07,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:34:00
+2016/12/8 上午 08:34:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:34:00
+2016/12/8 上午 08:34:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:35:00
+2016/12/8 上午 08:35:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:35:00
+2016/12/8 上午 08:35:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:36:00
+2016/12/8 上午 08:36:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:36:00
+2016/12/8 上午 08:36:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:38:01
+时间:2016/12/8 上午 08:38:01, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 08:38:01
+时间:2016/12/8 上午 08:38:01, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 08:39:00
+2016/12/8 上午 08:39:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:39:00
+2016/12/8 上午 08:39:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:40:00
+2016/12/8 上午 08:40:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:40:00
+2016/12/8 上午 08:40:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:45:21
+时间:2016/12/8 上午 08:44:20, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 08:46:02
+2016/12/8 上午 08:46:02,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:46:02
+2016/12/8 上午 08:46:02,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:47:00
+2016/12/8 上午 08:47:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:47:00
+2016/12/8 上午 08:47:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 08:48:00
+2016/12/8 上午 08:48:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 08:48:00
+2016/12/8 上午 08:48:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:07:46
+时间:2016/12/8 上午 11:07:45, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 11:08:02
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 133
+------------------------------------
+Log Entry : 2016年12月08日 11:08:02
+2016/12/8 上午 11:08:02,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:08:02
+2016/12/8 上午 11:08:02,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:09:09
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 133
+------------------------------------
+Log Entry : 2016年12月08日 11:09:33
+时间:2016/12/8 上午 11:09:33, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 11:10:07
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 133
+------------------------------------
+Log Entry : 2016年12月08日 11:10:09
+2016/12/8 上午 11:10:09,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:10:13
+2016/12/8 上午 11:10:13,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:11:03
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 133
+------------------------------------
+Log Entry : 2016年12月08日 11:11:04
+2016/12/8 上午 11:11:04,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:11:19
+2016/12/8 上午 11:11:19,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:20:48
+时间:2016/12/8 上午 11:20:48, Service Start...
+------------------------------------
+Log Entry : 2016年12月08日 11:21:01
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:21:01
+2016/12/8 上午 11:21:01,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:21:01
+2016/12/8 上午 11:21:01,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:22:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:22:00
+2016/12/8 上午 11:22:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:22:00
+2016/12/8 上午 11:22:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:23:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:23:00
+2016/12/8 上午 11:23:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:23:00
+2016/12/8 上午 11:23:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:24:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:24:00
+2016/12/8 上午 11:24:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:24:00
+2016/12/8 上午 11:24:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:25:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:25:00
+2016/12/8 上午 11:25:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:25:00
+2016/12/8 上午 11:25:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:26:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:26:00
+2016/12/8 上午 11:26:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:26:00
+2016/12/8 上午 11:26:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:27:00
+消息类型：Exception
+消息内容：ORA-00942: 表格或視觀表不存在
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:27:00
+2016/12/8 上午 11:27:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:27:00
+2016/12/8 上午 11:27:00,資料導入結束
+------------------------------------
+Log Entry : 2016年12月08日 11:28:00
+消息类型：Exception
+消息内容：ORA-00942: table or view does not exist
+
+引发异常的方法：System.Data.DataSet Query(System.String, System.String, System.Data.OracleClient.OracleParameter[])
+引发异常源：PBMSBatch.DBUtility   於 PBMSBatch.DBUtility.OracleHelper.Query(String connectionString, String SQLString, OracleParameter[] cmdParms) 於 e:\Program\Server\PBMSBatch\PBMSBatch.DBUtility\OracleHelper.cs: 行 99
+   於 PBMSBatch.Job.CKDSalesJob.GetCKDData(String StartDate, String EndDate) 於 e:\Program\Server\PBMSBatch\PBMSBatch.Job\Jobs\CKDSalesJob.cs: 行 132
+------------------------------------
+Log Entry : 2016年12月08日 11:28:00
+2016/12/8 上午 11:28:00,開始導入資料...
+------------------------------------
+Log Entry : 2016年12月08日 11:28:00
+2016/12/8 上午 11:28:00,資料導入結束
+------------------------------------
